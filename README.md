@@ -4,12 +4,11 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-This is the repository for the paper titled, "Land cover mapping and monitoring with Google Earth Engine: an explainable machine learning tool".
+This is the repository for the paper titled, "Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach using Google Earth Engine".
 
 # Examples
 
-
-## Upload samples file
+<a href="https://colab.research.google.com/github/GeoAIR-lab/XAI-tool4GEE/blob/main/examples/google_sample/example_output_google_samples.ipynb">Example notebook output</a>
 <a target="_blank" href="https://colab.research.google.com/github/GeoAIR-lab/XAI-tool4GEE/blob/main/examples/google_sample/example_output_google_samples.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -17,7 +16,7 @@ This is the repository for the paper titled, "Land cover mapping and monitoring 
 https://github.com/GeoAIR-lab/XAI-tool4GEE/assets/85247999/76e03ecc-f5a1-4d7d-bf58-df696d80d9a3
 
 
-## Sample from known ESRI land cover products
+<a href="https://colab.research.google.com/github/GeoAIR-lab/XAI-tool4GEE/blob/main/examples/example_output_sample_esri.ipynb.ipynb">Example notebook output</a>
 <a target="_blank" href="https://colab.research.google.com/github/GeoAIR-lab/XAI-tool4GEE/blob/main/examples/example_output_sample_esri.ipynb.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -25,7 +24,7 @@ https://github.com/GeoAIR-lab/XAI-tool4GEE/assets/85247999/76e03ecc-f5a1-4d7d-bf
 https://github.com/GeoAIR-lab/XAI-tool4GEE/assets/85247999/c5553bfa-d06b-4142-a1fc-f68dc00bce0f
 
 
-## Land cover change around coastal Dubai
+<a href="https://colab.research.google.com/github/GeoAIR-lab/XAI-tool4GEE/blob/main/examples/Dubai/example_output_Dubai.ipynb.ipynb">Example notebook output</a>
 <a target="_blank" href="https://colab.research.google.com/github/GeoAIR-lab/XAI-tool4GEE/blob/main/examples/Dubai/example_output_Dubai.ipynb.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
