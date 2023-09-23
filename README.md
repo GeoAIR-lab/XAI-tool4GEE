@@ -6,9 +6,9 @@
 
 This is the repository for the paper titled, "Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach using Google Earth Engine".
 
-![User Interface](paper/user_interface.JPG)
+![User Interface](paper/user_interface.JPG "User Interface")
 
-![Workflow chart for LULC classification](paper/flowchart_LULC classification_GEE.svg)
+![Workflow chart for LULC classification](paper/flowchart_LULC_classification_GEE.svg "Workflow chart for LULC classification")
 
 [Chen, H.; Yang, L.; Wu, Q. Enhancing Land Cover Mapping and Monitoring: An Interactive and Explainable Machine Learning Approach Using Google Earth Engine. 
 Remote Sens. 2023, 15, 4585. https://doi.org/10.3390/rs15184585](https://www.mdpi.com/2072-4292/15/18/4585)
